@@ -541,7 +541,7 @@ def generate_mse_table(standard_models, student_models, input_test, output_test,
                 adv_data_standard = generate_adversarial_examples(std_model, input_test, epsilon, attack)
                 pred_adv_standard = std_model.predict(adv_data_standard, verbose=0)
 
-                adv_data_student = generate_adversarial_examples(stu_model, input_test, epsilon, attack)
+                adv_data_student = generate_adversarial_examples(std_model, input_test, epsilon, attack)
                 pred_adv_student = stu_model.predict(adv_data_student, verbose=0)
 
                 # Compute MSE and standard deviation
