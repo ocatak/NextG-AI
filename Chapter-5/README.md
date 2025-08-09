@@ -1,6 +1,6 @@
 # Chapter-5
 
-This chapter contains scripts and notebooks for **[insert your topic here, e.g., "advanced wireless communication techniques" or "deep learning for signal processing"]**.
+This chapter contains scripts and notebooks for AI-Driven Spectrum Sensing with Robust Adversarial Defenses.
 
 **⚠️ Important: Make sure you are in the `Chapter-5` directory before running any commands or scripts.**
 
