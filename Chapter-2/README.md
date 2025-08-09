@@ -96,7 +96,7 @@ The chapter contains several Python scripts:
 - `ex04_MIM.py`: Momentum Iterative Method implementation
 - `ex05_CW.py`: Carlini & Wagner attack implementation
 - `ex06_AT.py`: Adversarial Training implementation
-- `ex07_DD.py`: Deep Defense implementation
+- `ex07_DD.py`: Defensive Distillation implementation
 
 To run any example:
 
